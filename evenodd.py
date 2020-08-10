@@ -6,5 +6,5 @@ if num>=1 :
   else :
      print("{} is odd :".format(num))
 else :
-	print("{} is neither even nor odd".format(num))
+      print("{} is neither even nor odd".format(num))
    
